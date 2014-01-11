@@ -1,0 +1,15 @@
+
+/archive.html
+
+/atom.xml
+
+/about.html
+
+/sitemap.txt
+
+/category.html
+
+/blog.html
+
+
+
